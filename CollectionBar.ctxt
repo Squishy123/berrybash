@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CollectionBar
+comment0.text=\r\n\ A\ GUI\ bar\ for\ the\ player\ containing\ a\ levelgui\ and\ healthgui\r\n\ \r\n\ @author\ Christian\ Wang\r\n\ @version\ 1.0\r\n
+comment1.params=health\ level
+comment1.target=CollectionBar(int,\ int)
+comment2.params=health
+comment2.target=void\ updateHealth(int)
+comment3.params=level
+comment3.target=void\ updateLevel(int)
+numComments=4

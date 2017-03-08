@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ Parser\ object\ holds\ an\ actor\ and\ coordinate\ for\ sending\r\n\ \r\n\ @author\ Christian\ Wang\r\n\ @version\ 1.0\r\n
+comment1.params=object\ x\ y
+comment1.target=Parser(greenfoot.Actor,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Parser\r\n
+numComments=2

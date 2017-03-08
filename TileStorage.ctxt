@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TileStorage
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TileStorage\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=
+comment2.target=void\ loadTiles()
+comment3.params=set
+comment3.target=void\ addSet(java.io.File)
+comment4.params=name
+comment4.target=greenfoot.GreenfootImage\ getSet(java.lang.String)
+comment5.params=name
+comment5.target=boolean\ setExists(java.lang.String)
+comment6.params=
+comment6.target=java.util.Set\ getNames()
+numComments=7

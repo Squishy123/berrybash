@@ -1,0 +1,3 @@
+addObject()|objType|x|y| or addObject()|objType|objID|x|y|
+moveObject()|objID|x|y|currentState|
+removeObject()|objID|

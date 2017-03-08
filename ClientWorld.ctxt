@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ClientWorld
+comment0.text=\r\n\ Client\ World\r\n\ \r\n\ @author\ Christian\ Wang\ \r\n\ @version\ 1.0\r\n
+comment1.params=ID\ host\ port
+comment1.target=ClientWorld(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ClientWorld.\r\n\ \r\n
+comment2.params=actor\ x\ y
+comment2.target=void\ addSendObject(greenfoot.Actor,\ int,\ int)
+comment2.text=\r\n\ Not\ allowed\ to\ use\ it\r\n
+comment3.params=ga\ x\ y\ currentState
+comment3.target=void\ moveObject(GameObject,\ int,\ int,\ States)
+comment3.text=\r\n\ Sends\ a\ message\ to\ move\ an\ object\ through\ the\ client\r\n
+comment4.params=ga
+comment4.target=void\ removeObject(GameObject)
+comment4.text=\r\n\ Sends\ a\ message\ to\ remove\ an\ object\ through\ the\ client\r\n
+comment5.params=
+comment5.target=void\ started()
+comment5.text=\r\n\ Starts\ the\ client\ -\ connection\r\n
+comment6.params=
+comment6.target=void\ stopped()
+comment6.text=\r\n\ Stops\ the\ client\ connection\r\n
+numComments=7

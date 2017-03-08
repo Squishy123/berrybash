@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Client
+comment0.text=\r\n\ Client\ that\ connects\ to\ server\r\n\ \r\n\ @author\ Christian\ Wang\r\n\ @version\ 1.0\r\n
+comment1.params=host\ port\ world
+comment1.target=Client(java.lang.String,\ int,\ ClientWorld)
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=parsed
+comment3.target=void\ sendObject(java.lang.Object)
+comment4.params=
+comment4.target=void\ shutDown()
+comment4.text=\r\n\ Stops\ the\ server\r\n
+comment5.params=
+comment5.target=void\ run()
+numComments=6

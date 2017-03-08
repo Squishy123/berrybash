@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Tiler
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tiler\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=startingSet\ tileSizeX\ tileSizeY
+comment1.target=Tiler(java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=void\ act()
+comment10.text=\r\n\ Act\ -\ do\ whatever\ the\ Tiler\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ redrawTiles()
+comment3.params=a\ b
+comment3.target=int\ compare(TileInfo,\ TileInfo)
+comment4.params=indX\ indY\ x\ y\ set
+comment4.target=void\ placeTile(int,\ int,\ int,\ int,\ java.lang.String)
+comment5.params=x\ y
+comment5.target=void\ removeTile(int,\ int)
+comment6.params=prev\ name
+comment6.target=void\ renameLayer(java.lang.String,\ java.lang.String)
+comment7.params=data\ name
+comment7.target=void\ setLayer(javax.swing.DefaultListModel,\ java.lang.String)
+comment8.params=tiles
+comment8.target=void\ loadTiles(java.util.ArrayList)
+comment9.params=
+comment9.target=java.util.ArrayList\ getTiles()
+numComments=11

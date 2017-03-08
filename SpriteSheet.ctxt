@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SpriteSheet
+comment0.text=\r\n\ Spritesheet\ loader\r\n\ \r\n\ @author\ Christian\ \r\n\ @version\ 1.0\r\n
+comment1.params=fileName\ spriteWidth\ spriteHeight\ numberOfSprites\ scaleFactor
+comment1.target=SpriteSheet(java.lang.String,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SpriteSheet\r\n
+comment2.params=fileName\ spriteWidth\ spriteHeight\ numberOfSprites\ scaleFactor\ showHitBoxes
+comment2.target=SpriteSheet(java.lang.String,\ int,\ int,\ int,\ int,\ boolean)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ SpriteSheet\r\n
+comment3.params=startX\ startY
+comment3.target=greenfoot.GreenfootImage\ crop(int,\ int)
+comment4.params=spriteNum
+comment4.target=greenfoot.GreenfootImage\ get(int)
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ animate()
+comment5.text=\r\n\ Switches\ to\ the\ next\ sprite\ in\ the\ spritesheet\r\n
+comment6.params=
+comment6.target=void\ create()
+numComments=7

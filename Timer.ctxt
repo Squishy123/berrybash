@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Timer
+comment0.text=\r\n\ Counts\ the\ amount\ of\ seconds\ between\ a\ starting\ event\r\n\ and\ an\ ending\ event\r\n\ \r\n\ @author\ Christian\ Wang\ \r\n\ @version\ Sept\ 2016\r\n
+comment1.params=
+comment1.target=Timer()
+comment1.text=\r\n\ Default\ constructor\ for\ timer\ object\r\n\ Starts\ the\ timer\ \r\n
+comment2.params=
+comment2.target=void\ mark()
+comment2.text=\r\n\ Starts\ the\ timer\ and\ sets\ the\ starttime\ value\ to\ current\ time\r\n
+comment3.params=
+comment3.target=int\ secondsElapsed()
+comment3.text=\r\n\ Returns\ the\ amount\ of\ seconds\ that\ passed\r\n\ Since\ the\ starting\ event\r\n
+comment4.params=
+comment4.target=int\ millisElapsed()
+comment4.text=\r\n\ Returns\ the\ amount\ of\ millisecondss\ that\ passed\r\n\ Since\ the\ starting\ event\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCurrentTimeStamp()
+comment5.text=\r\n\ Returns\ the\ current\ time\ in\ format\ year-month-day\ hour-minute-seconds\r\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HealthGUI
+comment0.text=\r\n\ Healthbar\r\n\ \r\n\ @author\ Christian\ Wang\ \r\n\ @version\ 1.0\r\n
+comment1.params=health
+comment1.target=HealthGUI(int)
+comment2.params=health
+comment2.target=void\ updateGUI(int)
+numComments=3

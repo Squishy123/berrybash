@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ServerWorld
+comment0.text=\r\n\ Server\ World\ \r\n\ \r\n\ @author\ Christian\ Wang\ \r\n\ @version\ 1.0\r\n
+comment1.params=ID\ port
+comment1.target=ServerWorld(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ServerWorld.\r\n\ \r\n
+comment2.params=actor\ x\ y
+comment2.target=void\ addObject(greenfoot.Actor,\ int,\ int)
+comment2.text=\r\n\ Sends\ the\ message\ to\ add\ an\ object\ through\ the\ server\ \r\n
+comment3.params=ga\ x\ y\ currentState
+comment3.target=void\ moveObject(GameObject,\ int,\ int,\ States)
+comment3.text=\r\n\ Sends\ the\ message\ to\ move\ an\ object\ through\ the\ server\ \r\n
+comment4.params=ga
+comment4.target=void\ removeObject(GameObject)
+comment4.text=\r\n\ Sends\ the\ message\ to\ remove\ an\ object\ through\ the\ server\ \r\n
+comment5.params=
+comment5.target=void\ started()
+comment5.text=\r\n\ Starts\ the\ server\ \r\n
+comment6.params=
+comment6.target=void\ stopped()
+comment6.text=\r\n\ Stops\ the\ server\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Randomly\ spawn\ berries\r\n
+numComments=8
